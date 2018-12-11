@@ -31,13 +31,13 @@ clone the reposotory with
 then checkout the branch required
 "git checkout <required branch>"
 
-for attitude_adjustment "git checkout attitude_adjustment"
-for barrier_breaker "git checkout barrier_breaker"
-for chaos_calmer "git checkout chaos_calmer
+for Atitude Adjustment "git checkout for-12.09"
+for Brrier Beaker "git checkout for-14.07"
+for Chaos Calmer "git checkout for-15.05"
 
 or just do one git clone command
-for attitude_adjustment "git clone -b for-12.09 https://github.com/donkey42/packages.git"
-for barrier_breaker "git clone -b for-14. https://github.com/donkey42/packages.git"
-for chaos_calmer "git clone -b chaos_calmer https://github.com/donkey42/packages.git"
+for Attitude Adjustment "git clone -b for-12.09 https://github.com/donkey42/packages.git"
+for Barrier Breaker "git clone -b for-14.07 https://github.com/donkey42/packages.git"
+for Chaos_Calmer "git clone -b for-15.05 https://github.com/donkey42/packages.git"
 
 donkey
