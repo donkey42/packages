@@ -28,7 +28,9 @@ edit:
 
 clone the reposotory with 
 "git clone https://github.com/donkey42/packages.git"
+
 then checkout the branch required
+
 "git checkout <required branch>"
  
 
