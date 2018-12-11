@@ -24,3 +24,20 @@ See [LICENSE](LICENSE) file.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
+edit:
+
+clone the reposotory with 
+"git clone https://github.com/donkey42/packages.git"
+then checkout the branch required
+"git checkout <required branch>"
+
+for attitude_adjustment "git checkout attitude_adjustment"
+for barrier_breaker "git checkout barrier_breaker"
+for chaos_calmer "git checkout chaos_calmer
+
+or just do one git clone command
+for attitude_adjustment "git clone -b for-12.09 https://github.com/donkey42/packages.git"
+for barrier_breaker "git clone -b for-14. https://github.com/donkey42/packages.git"
+for chaos_calmer "git clone -b chaos_calmer https://github.com/donkey42/packages.git"
+
+donkey
