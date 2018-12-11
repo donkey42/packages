@@ -30,10 +30,14 @@ clone the reposotory with
 "git clone https://github.com/donkey42/packages.git"
 then checkout the branch required
 "git checkout <required branch>"
+ 
 
 for Atitude Adjustment "git checkout for-12.09"
+
 for Brrier Beaker "git checkout for-14.07"
+
 for Chaos Calmer "git checkout for-15.05"
+
 
 or just do one git clone command
 
