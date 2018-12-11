@@ -31,8 +31,6 @@ clone the reposotory with
 
 then checkout the branch required
 
-"git checkout <branch>"
- 
 
 for Atitude Adjustment "git checkout for-12.09"
 
