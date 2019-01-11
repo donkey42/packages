@@ -43,14 +43,14 @@ or just do one git clone command
 
 for Attitude Adjustment:
 
-[code]git clone -b for-12.09 https://github.com/donkey42/packages.git[/code]
+"git clone -b for-12.09 https://github.com/donkey42/packages.git"
 
 for Barrier Breaker:
 
-[code]git clone -b for-14.07 https://github.com/donkey42/packages.git[/code]
+"git clone -b for-14.07 https://github.com/donkey42/packages.git"
 
 for Chaos_Calmer:
 
-[code]git clone -b for-15.05 https://github.com/donkey42/packages.git[/code]
+"git clone -b for-15.05 https://github.com/donkey42/packages.git"
 
 donkey
