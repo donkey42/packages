@@ -41,10 +41,13 @@ for Chaos Calmer "git checkout for-15.05"
 
 or just do one git clone command
 
-for Attitude Adjustment "git clone -b for-12.09 https://github.com/donkey42/packages.git"
+for Attitude Adjustment
+[code]one -b for-12.09 https://github.com/donkey42/packages.git[/code]
 
-for Barrier Breaker "git clone -b for-14.07 https://github.com/donkey42/packages.git"
+for Barrier Breaker
+[code]one -b for-14.07 https://github.com/donkey42/packages.git[/code]
 
-for Chaos_Calmer "git clone -b for-15.05 https://github.com/donkey42/packages.git"
+for Chaos_Calmer
+[code]git clone -b for-15.05 https://github.com/donkey42/packages.git[/code]
 
 donkey
